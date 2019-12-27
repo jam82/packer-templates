@@ -23,7 +23,7 @@ Some existing wrappers are mentioned in the [official docs](https://www.packer.i
 
 So maybe someday I will build some jinja-based template engine myself for it... but right now I need to pass on... :P
 
-On <cloud.google.com> you can find an [article](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes?hl=en) that suggest to isolate the different images in theor own repositories and have the builds automated by jenkins. This seems to be the most reasonable approach so far as parallel builds are possible, orchestrated by jenkins. But to be honest, this is not the typical "use-at-home" scenario.
+On <cloud.google.com> you can find an [article](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes?hl=en) that suggests to isolate the different images in their own repositories and have the builds automated by jenkins. This seems to be the most reasonable approach so far as parallel builds are possible, orchestrated by jenkins. But to be honest, this is not the typical "use-at-home" scenario.
 
 ## My thoughts about it
 
